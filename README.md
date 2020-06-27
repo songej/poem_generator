@@ -32,7 +32,8 @@ python poem_generator.py
 
 ## Sample Output
 
-## Contributing
+## Contributor
+- 송은정
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
