@@ -22,7 +22,7 @@ LSTM 모델이 윤동주 시인의 독특한 문체를 학습하기 위해서는
 ## Installation
 - [Anaconda](https://www.anaconda.com/) 설치
 - Anaconda Prompt 실행
-- Anaconda 업그레이드, Tensorflow 설치, Keras 설치 등의 다음 명령어 실행
+- Anaconda 업그레이드, Tensorflow 설치, Keras 설치 등을 위한 아래 명령어들을 실행
 ```
 conda update -n base conda
 conda update --all
@@ -32,7 +32,7 @@ conda install keras
 ```
 
 ## How to use?
-- Python 코드 실행
+- 아래 명령어로 Python 코드 실행
 ```
 python poem_generator.py
 ```
