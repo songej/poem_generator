@@ -2,7 +2,7 @@
 윤동주체 시 생성기는 시작 단어와 총 단어수를 정해주면 윤동주 시인의 문체로 시를 써주는 프로그램이다.
 
 ## Features
-윤동주체 시 생성기는 딥러닝 LSTM(Long Short Term Memory networks) 모델을 통해 윤동주 시인의 문체를 구현했다. 
+윤동주체 시 생성기는 딥러닝 LSTM(Long Short Term Memory) 모델을 통해 윤동주 시인의 문체를 구현했다. 
 LSTM 모델은 과거의 데이터가 미래에 영향을 줄 수 있도록 설계된 RNN(순환신경망, Recurrent Neural Network)의 발전된 형태이다. 
 본 프로젝트에서는 윤동주 시인의 시 세계 속 문맥을 반영하여 텍스트를 생성하는 LSTM 모델을 구현하였다. 
 모델의 학습 데이터는 윤동주 시인의 유고 시집인 '하늘과 바람과 별과 시'로 1941년에 출간될 예정이었던 19편의 시들이다. 
@@ -58,6 +58,9 @@ python poem_generator.py
 '그리워서' 단어로 시작하는 총 24 단어의 윤동주체 시 생성 예제
 그리워서 가거라 많은 별빛이 내린 언덕 위에 눈을 감으면 불을 끄옵니다 가슴에 꽂고 병실 안으로 의사는 젊은이의 병을 모른다 나한테는 병이 없다고 한다 이 지나친
 ```
+## References
+- https://en.wikipedia.org/wiki/Long_short-term_memory
+- https://ko.wikipedia.org/wiki/하늘과_바람과_별과_시
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/) © [송은정](http://songej.com/)
