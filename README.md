@@ -11,7 +11,7 @@
 ## Installation
 - [Anaconda](https://www.anaconda.com/) 설치
 - Anaconda Prompt 실행
-- Anaconda 업그레이드, Tensorflow 설치, Keras 설치 명령어 실행
+- Anaconda 업그레이드, Tensorflow 설치, Keras 설치 등의 다음 명령어 실행
 ```bash
 conda update -n base conda
 conda update --all
