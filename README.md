@@ -2,11 +2,8 @@
 윤동주풍 시 생성기는 시작 단어와 총 단어수를 정해주면 윤동주 스타일로 시를 써주는 프로그램 입니다.
 
 ## Requirements
-- Python
-- Pandas
-- Numpy
-- Tensorflow
-- Keras
+- Python + Pandas + Numpy
+- Tensorflow + Keras
 
 ## Installation
 - [Anaconda](https://www.anaconda.com/) 설치
