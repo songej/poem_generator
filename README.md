@@ -31,7 +31,7 @@ conda install tensorflow
 conda install keras
 ```
 
-## Execution
+## How to use?
 - Python 코드 실행
 ```
 python poem_generator.py
