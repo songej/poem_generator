@@ -25,6 +25,10 @@ conda install keras
 ```python
 python poem_generator.py
 ```
+- Epoch 200/200 이 될 때까지 학습 대기
+- 어떤 단어로 시를 시작할 것인지 단어 입력
+- 몇 단어로 시를 쓸 것인지 숫자 입력
+- 윤동주풍 시 생성 결과 확인
 
 ## Sample Output
 
