@@ -59,6 +59,11 @@ python poem_generator.py
 그리워서 가거라 많은 별빛이 내린 언덕 위에 눈을 감으면 불을 끄옵니다 가슴에 꽂고 병실 안으로 의사는 젊은이의 병을 모른다 나한테는 병이 없다고 한다 이 지나친
 ```
 ## References
+- https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM
+- http://www.bioinf.jku.at/publications/older/2604.pdf
+- https://www.mitpressjournals.org/doi/pdf/10.1162/089976600300015015
+- https://arxiv.org/abs/1512.05287
+- http://www.cs.toronto.edu/~graves/preprint.pdf
 - https://en.wikipedia.org/wiki/Long_short-term_memory
 - https://ko.wikipedia.org/wiki/하늘과_바람과_별과_시
 
